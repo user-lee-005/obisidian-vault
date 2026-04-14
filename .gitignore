@@ -1,0 +1,4 @@
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/*
+!.obsidian/plugins/obsidian-git
