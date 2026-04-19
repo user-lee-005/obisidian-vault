@@ -11,10 +11,14 @@
             "id": "5db2b1c74eedf12f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Databases"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Design/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Databases"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "System Design/Databases.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Databases"
             }
           },
           {
@@ -173,20 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dc8b784562985f2",
+  "active": "5db2b1c74eedf12f",
   "lastOpenFiles": [
-    "Spring WebFlux/Spring Webflux.md",
-    "System Design/Foundations of System Design.md",
-    "System Design/Index.md",
+    "System Design/Load Balancers.md",
     "System Design/Databases.md",
+    "System Design/Transactions.md",
+    "System Design/Join operations.md",
+    "System Design/Index.md",
+    "System Design/Foundations of System Design.md",
+    "Connect Redis using WSL Ubuntu.md",
+    "Spring WebFlux/Spring Webflux.md",
     "System Design/Hash Ring.md",
     "System Design/Relational vs Non-Relational Databases.md",
     "System Design/Key-Value stores.md",
     "System Design/Graph stores.md",
     "System Design/Wide-column stores.md",
     "System Design/Document stores.md",
-    "System Design/Transactions.md",
-    "System Design/Join operations.md",
     "Pasted image 20260418140614.png",
     "System Design/Foundations",
     "System Design",
@@ -207,8 +215,6 @@
     "Spring WebFlux/Interview Questions/Core Concepts.md",
     "Spring WebFlux/Code.md",
     "Spring WebFlux/Netty/Netty.md",
-    "Spring WebFlux/Netty/Replace Netty in Configuration.md",
-    "Spring WebFlux/Reactive Programming.md",
     "Untitled.canvas",
     "Untitled.base",
     "Spring WebFlux"
