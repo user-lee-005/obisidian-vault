@@ -60,4 +60,10 @@ There are 2 primary ways: a. Vertical, b. Horizontal
 ---
 
 
-
+**Single Point of Failure (SPoF)**
+- Any component that could bring the entire system with it.
+- Issue for Reliability, Scalability and Security
+- Prevention:
+	1. Adding redundancy to the system, example add more load balancers.
+	2. Health checks and monitoring for themselves for load balancers.
+	3. Self healing systems --> Again monitor the health of the load balancers, if we detect any issue in the load balancer, we replace it with new load balancer which is basically an instance of the same load balancer.
