@@ -1,0 +1,6 @@
+- Transactions in sql are a seq of one or more sql operations that are performed as single atomic unit and each transaction in sql follows ACID properties.
+- Example Bank Transfer
+- A - Atomicity, All the transactions are atomic which means entire transactions are treated as single unit, completely succeeds or completely fails.
+- C - Consistency, All transactions change the data from one valid state to another valid state
+- I - Isolation, When there are concurrent transactions modifying the data they are isolated from each other 
+- D - Durability, Data remains in case of system failure

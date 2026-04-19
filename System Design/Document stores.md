@@ -1,0 +1,3 @@
+- Most popular store - Mongo DB
+- The data is stored in JSON like documents
+- This allows us to store complex data structures within a single record

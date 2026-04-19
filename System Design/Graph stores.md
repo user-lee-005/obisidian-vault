@@ -1,0 +1,3 @@
+- Storing the entity and their relationships as graphs
+- Example - Neo4j
+- In amazon they use Neptune Graph DB, this is used for suggesting orders based on the previous orders 

@@ -1,0 +1,5 @@
+- The data is stored as key-value pairs.
+- Biggest Advantage:
+	- Simplicity
+	- Speed - Because the data is primarily stored in RAM
+- Examples - Memcache, Redis

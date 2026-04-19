@@ -1,0 +1,4 @@
+- This hash function forms a circle where we have the servers located in front of the load balancer.
+- Whenever a new request comes from a user, this hash functions takes the ip address of the user and locates the user on the hash ring (a point on the circle).
+- Then we check which server is closest to the point.
+- It redirects the traffic to that server which was identified. 
