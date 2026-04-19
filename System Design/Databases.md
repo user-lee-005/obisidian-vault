@@ -59,7 +59,6 @@ There are 2 primary ways: a. Vertical, b. Horizontal
 
 ---
 
-
 **Single Point of Failure (SPoF)**
 - Any component that could bring the entire system with it.
 - Issue for Reliability, Scalability and Security
