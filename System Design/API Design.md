@@ -1,0 +1,5 @@
+1. [[What APIs are and their role in the system architecture]]
+2. [[The 3 most common API styles]]
+3. [[4 Key design principles that make great APIs]]
+4. [[How Application protocols influence the API design decisions]]
+5. [[The API design process]]

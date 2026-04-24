@@ -1,0 +1,10 @@
+- Least common one
+- High performance RPC framework using Protocol buffers for communication
+- The methods are defined in .proto files
+- Communication Types:
+	- Unary
+	- Server Streaming
+	- Client Streaming
+	- Bidirectional Streaming
+- This is used when there is high performance required
+- Mostly used in the microservices

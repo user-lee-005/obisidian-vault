@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Databases.md",
+                "file": "System Design/API Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Databases"
+              "title": "API Design"
             }
           }
         ]
@@ -181,20 +181,28 @@
   },
   "active": "5db2b1c74eedf12f",
   "lastOpenFiles": [
+    "System Design/How Application protocols influence the API design decisions.md",
+    "System Design/API Design.md",
+    "System Design/4 Key design principles that make great APIs.md",
+    "System Design/What APIs are and their role in the system architecture.md",
+    "System Design/The 3 most common API styles.md",
+    "System Design/gRPC.md",
+    "System Design/REST.md",
+    "System Design/GraphQL.md",
+    "System Design/Index.md",
     "System Design/Load Balancers.md",
     "System Design/Databases.md",
-    "System Design/Transactions.md",
+    "System Design/Relational vs Non-Relational Databases.md",
+    "System Design/Graph stores.md",
+    "System Design/Key-Value stores.md",
+    "System Design/Wide-column stores.md",
+    "System Design/Document stores.md",
     "System Design/Join operations.md",
-    "System Design/Index.md",
     "System Design/Foundations of System Design.md",
+    "System Design/Transactions.md",
     "Connect Redis using WSL Ubuntu.md",
     "Spring WebFlux/Spring Webflux.md",
     "System Design/Hash Ring.md",
-    "System Design/Relational vs Non-Relational Databases.md",
-    "System Design/Key-Value stores.md",
-    "System Design/Graph stores.md",
-    "System Design/Wide-column stores.md",
-    "System Design/Document stores.md",
     "Pasted image 20260418140614.png",
     "System Design/Foundations",
     "System Design",
@@ -207,14 +215,6 @@
     "Spring WebFlux/Interview Questions/Interview Questions.md",
     "Spring WebFlux/Interview Questions/Practical Scenarios.md",
     "Spring WebFlux/Interview Questions/Trap Questions.md",
-    "Spring WebFlux/Interview Questions/Performance & Design.md",
-    "Spring WebFlux/Interview Questions/Error Handling.md",
-    "Spring WebFlux/Interview Questions/Integration.md",
-    "Spring WebFlux/Interview Questions/Streaming.md",
-    "Spring WebFlux/Interview Questions/Execution Model.md",
-    "Spring WebFlux/Interview Questions/Core Concepts.md",
-    "Spring WebFlux/Code.md",
-    "Spring WebFlux/Netty/Netty.md",
     "Untitled.canvas",
     "Untitled.base",
     "Spring WebFlux"
