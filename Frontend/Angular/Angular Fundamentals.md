@@ -53,17 +53,17 @@ Framework (Angular):
 
 If you know Spring Boot, you already understand Angular's philosophy:
 
-| Concept | Spring Boot | Angular |
-|---|---|---|
-| **Philosophy** | Opinionated, convention over config | Opinionated, convention over config |
-| **Setup** | Spring Initializr generates project | Angular CLI generates project |
-| **DI** | `@Autowired` / constructor injection | Constructor injection (built-in DI) |
-| **Modules** | `@Configuration` classes | `@NgModule` / Standalone components |
-| **HTTP** | `RestTemplate` / `WebClient` | `HttpClient` |
-| **Routing** | `@RequestMapping`, `@GetMapping` | `RouterModule`, route configs |
-| **Testing** | JUnit + Mockito | Jasmine + Karma (or Jest) |
-| **Build** | Maven / Gradle | Angular CLI (Webpack/esbuild) |
-| **Config** | `application.yml` | `angular.json`, `environment.ts` |
+| Concept        | Spring Boot                          | Angular                             |
+| -------------- | ------------------------------------ | ----------------------------------- |
+| **Philosophy** | Opinionated, convention over config  | Opinionated, convention over config |
+| **Setup**      | Spring Initializr generates project  | Angular CLI generates project       |
+| **DI**         | `@Autowired` / constructor injection | Constructor injection (built-in DI) |
+| **Modules**    | `@Configuration` classes             | `@NgModule` / Standalone components |
+| **HTTP**       | `RestTemplate` / `WebClient`         | `HttpClient`                        |
+| **Routing**    | `@RequestMapping`, `@GetMapping`     | `RouterModule`, route configs       |
+| **Testing**    | JUnit + Mockito                      | Jasmine + Karma (or Jest)           |
+| **Build**      | Maven / Gradle                       | Angular CLI (Webpack/esbuild)       |
+| **Config**     | `application.yml`                    | `angular.json`, `environment.ts`    |
 
 > [!tip] Spring Boot Developer Advantage
 > If React is like Spring Boot with manual configuration (you pick every starter, configure every bean), Angular is like **Spring Boot with Initializr + ALL starters pre-configured**. Everything works together because it was designed together.

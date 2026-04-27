@@ -11,14 +11,14 @@
             "id": "4b96bfef24067c48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Cloud/Index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Frontend/Angular/Angular Lifecycle Hooks.md",
+                "bFile": "Frontend/Angular/Angular Lifecycle Hooks.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "diff",
+              "title": "Diff: Angular Lifecycle Hooks  (Working Tree)"
             }
           }
         ]
@@ -179,6 +179,15 @@
   },
   "active": "4b96bfef24067c48",
   "lastOpenFiles": [
+    "Cloud/Index.md",
+    "Frontend/React vs Angular Comparison.md",
+    "Frontend/Angular/Components and Templates.md",
+    "Frontend/Angular/RxJS and Reactive Programming.md",
+    "Frontend/Angular/Angular State Management.md",
+    "Frontend/Angular/Angular Routing.md",
+    "Frontend/Angular/Angular Lifecycle Hooks.md",
+    "Frontend/Angular/Angular Fundamentals.md",
+    "Frontend/Index.md",
     "System Design/Leader Election and Consensus.md",
     "System Design/Bloom Filters and Probabilistic Data Structures.md",
     "System Design/Authentication and Authorization.md",
@@ -196,15 +205,6 @@
     "Spring WebFlux/Interview Questions/Interview Questions.md",
     "System Design/Wide-column stores.md",
     "System Design/Transactions.md",
-    "System Design/Relational vs Non-Relational Databases.md",
-    "System Design/Load Balancers.md",
-    "System Design/Key-Value stores.md",
-    "System Design/Graph stores.md",
-    "System Design/Hash Ring.md",
-    "System Design/Index.md",
-    "System Design/Join operations.md",
-    "System Design/Foundations of System Design.md",
-    "System Design/Document stores.md",
     "System Design",
     "Spring boot",
     "New Text Document.txt",
