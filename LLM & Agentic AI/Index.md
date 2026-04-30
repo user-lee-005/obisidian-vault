@@ -60,6 +60,11 @@ Hands-on — integrating LLMs into real applications.
 | [[LangChain Fundamentals]] | Chains, prompts, output parsers, memory (Python) |
 | [[Vector Databases]] | Embeddings, similarity search, Pinecone, Weaviate, pgvector |
 | [[RAG - Retrieval Augmented Generation]] | Architecture, chunking, retrieval strategies, evaluation |
+| [[Advanced RAG Patterns]] | CRAG, Self-RAG, Agentic RAG, Graph RAG, HyDE, query routing |
+| [[RAG with Spring AI]] | Complete Java integration guide — ETL, pgvector, query pipeline |
+| [[RAG with LangChain]] | Complete Python integration guide — loaders, LCEL chains, conversational RAG |
+| [[RAG in Production]] | Scaling, multi-tenancy, evaluation pipelines, cost optimization |
+| [[Prompt Caching Techniques]] | KV-cache, prefix caching (OpenAI/Anthropic), semantic cache, multi-layer strategy |
 | [[Fine-Tuning vs RAG vs Prompt Engineering]] | When to use which approach |
 
 ---
