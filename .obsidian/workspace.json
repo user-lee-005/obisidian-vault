@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "e894a0c06cab7aac",
+    "id": "6d1b8819c72195c1",
     "type": "split",
     "children": [
       {
-        "id": "1bceff74f87730aa",
+        "id": "14a189109ca6d93a",
         "type": "tabs",
         "children": [
           {
-            "id": "ad66d8e2d427df41",
+            "id": "7420b43029a644a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Confidiential Health Sheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Confidiential Health Sheet"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e52e557fc29850c9",
+    "id": "3f4da30f07ad8dca",
     "type": "split",
     "children": [
       {
-        "id": "3f01f80aa77d1f55",
+        "id": "691b1b183feb0fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc8b784562985f2",
+            "id": "815d8720ede44777",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "c368e5e0bfbe243f",
+            "id": "18227733293c1d02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "3af83d74df8fe550",
+            "id": "68c79242958bebac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "360ab50b4c0e1c50",
+    "id": "7ecaf3b29e54d3e7",
     "type": "split",
     "children": [
       {
-        "id": "4eb0ffdcb08b5c43",
+        "id": "fe6a1fa2ac845107",
         "type": "tabs",
         "children": [
           {
-            "id": "58d77513500697b6",
+            "id": "9b012fbae624a472",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "3c278507fce1595d",
+            "id": "302e6d8fbd445e48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "3208b51d38a71504",
+            "id": "cef5e0447c4371d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,13 +135,13 @@
             }
           },
           {
-            "id": "2f50013801f97299",
+            "id": "97686ac2f4f8e0c5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -145,7 +149,7 @@
             }
           },
           {
-            "id": "4b2d919bd921872b",
+            "id": "d8409823ed029f12",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,53 +167,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2d919bd921872b",
+  "active": "7420b43029a644a3",
   "lastOpenFiles": [
-    "Cloud/Index.md",
-    "Frontend/React vs Angular Comparison.md",
-    "Frontend/Angular/Components and Templates.md",
-    "Frontend/Angular/RxJS and Reactive Programming.md",
-    "Frontend/Angular/Angular State Management.md",
-    "Frontend/Angular/Angular Routing.md",
-    "Frontend/Angular/Angular Lifecycle Hooks.md",
-    "Frontend/Angular/Angular Fundamentals.md",
-    "Frontend/Index.md",
-    "System Design/Leader Election and Consensus.md",
-    "System Design/Bloom Filters and Probabilistic Data Structures.md",
-    "System Design/Authentication and Authorization.md",
-    "System Design/Caching.md",
-    "System Design/Message Queues.md",
-    "conflict-files-obsidian-git.md",
-    "System Design/gRPC.md",
-    "System Design/What APIs are and their role in the system architecture.md",
-    "System Design/The 3 most common API styles.md",
-    "System Design/REST.md",
-    "System Design/How Application protocols influence the API design decisions.md",
-    "System Design/GraphQL.md",
-    "System Design/API Design.md",
-    "System Design/4 Key design principles that make great APIs.md",
-    "Spring WebFlux/Interview Questions/Interview Questions.md",
-    "System Design/Wide-column stores.md",
-    "System Design/Transactions.md",
-    "System Design",
-    "Spring boot",
-    "New Text Document.txt",
-    "Spring WebFlux/Interview Questions/desktop.ini",
-    "Spring WebFlux/Netty",
-    "Spring WebFlux/Reactive Stream Specifications",
-    "Spring WebFlux/Interview Questions",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Spring WebFlux"
+    "LLM & Agentic AI/Word Embeddings.md",
+    "LLM & Agentic AI/What is AI and ML.md",
+    "LLM & Agentic AI/What are LLMs.md",
+    "LLM & Agentic AI/What are AI Agents.md",
+    "LLM & Agentic AI/Vector Databases.md",
+    "LLM & Agentic AI/Training a Model.md",
+    "LLM & Agentic AI/Tool Use Patterns.md",
+    "LLM & Agentic AI/Tokenization and Vocabulary.md",
+    "LLM & Agentic AI/The Transformer Architecture.md",
+    "LLM & Agentic AI/The LLM Landscape.md",
+    "LLM & Agentic AI/The Future of Agentic AI.md",
+    "LLM & Agentic AI/Structured Output and Parsing.md",
+    "LLM & Agentic AI/Spring AI Framework.md",
+    "LLM & Agentic AI/Sequence Models and Attention.md",
+    "LLM & Agentic AI/Running LLMs Locally.md",
+    "LLM & Agentic AI/RAG with Spring AI.md",
+    "LLM & Agentic AI/RAG with LangChain.md",
+    "LLM & Agentic AI/RAG in Production.md",
+    "LLM & Agentic AI/RAG - Retrieval Augmented Generation.md",
+    "LLM & Agentic AI/Prompt Engineering.md",
+    "LLM & Agentic AI/Prompt Caching Techniques.md",
+    "LLM & Agentic AI/Production Considerations.md",
+    "LLM & Agentic AI/Planning and Reasoning.md",
+    "LLM & Agentic AI/Overfitting and Generalization.md",
+    "LLM & Agentic AI/OpenAI API Deep Dive.md",
+    "LLM & Agentic AI/Neural Networks from Scratch.md",
+    "LLM & Agentic AI",
+    "Frontend/React",
+    "Frontend/Angular",
+    "Frontend",
+    "Cloud/Azure",
+    "Cloud/AWS",
+    "Cloud"
   ]
 }
