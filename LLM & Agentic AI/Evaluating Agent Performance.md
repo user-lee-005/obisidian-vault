@@ -38,7 +38,7 @@ How many steps, tokens, and tool calls did it take? An agent that takes 15 steps
 Does it work consistently? Run the same task 10 times. If it succeeds 7/10, that's 70% reliability. For production agents, you want 95%+.
 
 ### Safety
-Did it stay within boundaries? Did it try to access tools it shouldn't? Did it follow [[Guardrails and Safety Layers|guardrails]]? This matters especially for agents with write access to real systems.
+Did it stay within boundaries? Did it try to access tools it shouldn't? Did it follow [[Guardrails and Safety|guardrails]]? This matters especially for agents with write access to real systems.
 
 ---
 

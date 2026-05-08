@@ -1,6 +1,6 @@
 # What are LLMs
 
-Now that we understand [[The Transformer Architecture]], [[Attention Mechanism]], and [[Tokenization and Vocabulary]], let's zoom out and look at what happens when you scale transformers up — way up. Welcome to the world of **Large Language Models**.
+Now that we understand [[The Transformer Architecture]], [[Sequence Models and Attention|Attention Mechanism]], and [[Tokenization and Vocabulary]], let's zoom out and look at what happens when you scale transformers up — way up. Welcome to the world of **Large Language Models**.
 
 ---
 

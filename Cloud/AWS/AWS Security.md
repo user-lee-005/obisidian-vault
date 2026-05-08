@@ -169,7 +169,7 @@ aws kms get-key-rotation-status --key-id alias/my-production-key
 |---------|-------------------|
 | **S3** | Objects (files) at rest — see [[AWS Storage]] |
 | **EBS** | EC2 disk volumes — see [[AWS Compute]] |
-| **RDS** | Database storage and backups — see [[AWS Database]] |
+| **RDS** | Database storage and backups — see [[AWS Databases]] |
 | **DynamoDB** | Table data at rest |
 | **Lambda** | Environment variables |
 | **SQS** | Messages in queues |

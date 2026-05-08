@@ -270,7 +270,7 @@ Log every agent action with enough detail to reconstruct what happened:
 - What data was accessed?
 - What was the final output?
 
-This is critical for compliance, debugging, and [[Guardrails and Safety Layers|safety monitoring]].
+This is critical for compliance, debugging, and [[Guardrails and Safety|safety monitoring]].
 
 ### Data Isolation (Multi-Tenant)
 If your agent serves multiple customers:

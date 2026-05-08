@@ -24,7 +24,7 @@ Tools are how we give LLMs **superpowers** — access to real-time data, computa
 - **Web search** — find current information the model wasn't trained on
 - **Database queries** — look up customer records, order status, inventory
 - **API lookups** — stock prices, weather, exchange rates, shipping status
-- **Document search** — query a [[RAG (Retrieval-Augmented Generation)]] knowledge base
+- **Document search** — query a [[RAG - Retrieval Augmented Generation]] knowledge base
 
 ### Computation
 - **Calculators** — precise math (LLMs are notoriously bad at arithmetic)
@@ -128,7 +128,7 @@ Giving the model too many tools **degrades performance**. The model has to read 
 Strategies for large tool sets:
 - **Category-based routing** — first call picks a category, second call picks specific tool
 - **Dynamic tool injection** — only provide relevant tools based on conversation context
-- **Tool descriptions as retrieval** — use [[RAG (Retrieval-Augmented Generation)]] to find relevant tools
+- **Tool descriptions as retrieval** — use [[RAG - Retrieval Augmented Generation]] to find relevant tools
 
 ---
 
@@ -144,7 +144,7 @@ User: "Find the cheapest flight from Chennai to London next week and email me th
 3. send_email(to="user@company.com", subject="Flight Options", body=formatted_results)
 ```
 
-The model orchestrates this chain, using the output of one tool as input to the next. This is where things start looking like [[Agentic AI]] behavior.
+The model orchestrates this chain, using the output of one tool as input to the next. This is where things start looking like [[What are AI Agents|Agentic AI]] behavior.
 
 ---
 

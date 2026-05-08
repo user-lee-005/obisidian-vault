@@ -1200,7 +1200,7 @@ src/app/shipment/
 - [[Services and Dependency Injection]] — How DI works (relevant for mock injection)
 - [[Angular Forms]] — Reactive & template-driven forms (tested in Phase 8)
 - [[React Testing]] — Compare with React's testing approach
-- [[RxJS and Observables]] — Understanding Observables for Phase 7
+- [[RxJS and Reactive Programming]] — Understanding Observables for Phase 7
 
 ---
 

@@ -57,7 +57,7 @@ Always respond in this exact JSON format:
 Do not include any text outside the JSON."""
 ```
 
-See [[Prompt Engineering Techniques]] for advanced strategies.
+See [[Prompt Engineering]] for advanced strategies.
 
 ---
 
@@ -141,7 +141,7 @@ graph TD
 | Up-to-date information | RAG | RAG + better chunking |
 | Faster/cheaper inference | Prompt optimization | Fine-tune smaller model |
 | Brand voice consistency | System prompt | Fine-tuning |
-| Complex multi-step reasoning | [[Prompt Engineering Techniques|Chain-of-thought]] | Fine-tune on reasoning traces |
+| Complex multi-step reasoning | [[Prompt Engineering|Chain-of-thought]] | Fine-tune on reasoning traces |
 
 ---
 

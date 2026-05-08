@@ -16,7 +16,7 @@ CTEs are **named, temporary result sets** defined with the `WITH` clause. They e
 > [!tip] Mental model
 > Think of CTEs as **paragraphs** in a SQL **essay**. Each CTE handles one logical step, and the final SELECT combines them into the answer. Instead of one massive nested query, you write a series of named, self-documenting transformations.
 
-**Prerequisites:** [[07 - Subqueries]], [[05 - Aggregations and GROUP BY]]
+**Prerequisites:** [[07 - Subqueries]], [[06 - GROUP BY and Aggregation]]
 **Used in:** [[08 - Common Query Patterns]], [[09 - Window Functions]]
 
 ---

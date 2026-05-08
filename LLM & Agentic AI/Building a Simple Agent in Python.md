@@ -305,7 +305,7 @@ Every agent framework — [[LangGraph and Agent Frameworks|LangGraph]], CrewAI, 
 - **No backtracking** — if it goes down a wrong path, it can't undo
 - **No parallelism** — tool calls are sequential
 - **Token limit** — long conversations will exceed context window
-- **No [[Guardrails and Safety Layers|safety guardrails]]** — it will try anything the tools allow
+- **No [[Guardrails and Safety|safety guardrails]]** — it will try anything the tools allow
 
 These limitations are exactly what frameworks and [[Agent Architecture Patterns|architecture patterns]] solve. But understanding this simple version first makes those solutions make sense.
 

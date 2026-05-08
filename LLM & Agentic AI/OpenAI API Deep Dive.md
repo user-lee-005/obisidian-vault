@@ -8,7 +8,7 @@ tags:
 
 # OpenAI API Deep Dive
 
-Now that we understand how LLMs work under the hood ([[Transformer Architecture]], [[Attention Mechanism]]), let's actually *use* one. The OpenAI API is the most popular way to integrate LLM capabilities into your applications — and understanding it well translates to working with any LLM provider.
+Now that we understand how LLMs work under the hood ([[The Transformer Architecture]], [[Sequence Models and Attention|Attention Mechanism]]), let's actually *use* one. The OpenAI API is the most popular way to integrate LLM capabilities into your applications — and understanding it well translates to working with any LLM provider.
 
 ---
 
@@ -176,7 +176,7 @@ Need the model to return valid JSON? Use `response_format`:
 }
 ```
 
-The model will *always* return valid JSON. Combine with [[Prompt Engineering Techniques]] for reliable structured outputs.
+The model will *always* return valid JSON. Combine with [[Prompt Engineering]] for reliable structured outputs.
 
 ---
 
@@ -211,7 +211,7 @@ Use cases: semantic search, clustering, recommendation. See [[Vector Databases]]
 - **Model selection** — Use `gpt-4o-mini` for simple tasks, `gpt-4o` for complex reasoning
 - **Prompt caching** — OpenAI caches long prefixes automatically (system prompts, few-shot examples)
 - **Batching** — The Batch API offers 50% discount for non-time-sensitive workloads
-- **Shorter prompts** — Every token costs money. Be concise in your [[Prompt Engineering Techniques]]
+- **Shorter prompts** — Every token costs money. Be concise in your [[Prompt Engineering]]
 - **Max tokens** — Set it appropriately to avoid paying for overly long responses
 
 ---

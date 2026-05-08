@@ -938,7 +938,7 @@ useEffect(() => {
 ## What's Next?
 
 - **[[Angular Lifecycle Hooks]]** — `ngOnInit`, `ngOnChanges`, `ngOnDestroy` (like `@PostConstruct` / `@PreDestroy`)
-- **[[Angular Services and DI]]** — Dependency injection deep dive
+- **[[Services and Dependency Injection]]** — Dependency injection deep dive
 - **[[Angular Routing]]** — Client-side navigation with guards
 - **[[Angular Forms]]** — Template-driven and reactive forms with validation
 

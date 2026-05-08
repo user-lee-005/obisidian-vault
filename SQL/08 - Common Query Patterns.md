@@ -16,7 +16,7 @@ This is a **cookbook** of reusable SQL patterns. Every pattern here solves a pro
 > [!tip] How to use this note
 > Each pattern follows the same structure: **Problem → Solution → Why it works → Variations → Performance → Real-world context**. Bookmark the ones you use most. Link them into your project notes.
 
-**Prerequisite notes:** [[04 - Joins]], [[05 - Aggregations and GROUP BY]], [[07 - Subqueries]]
+**Prerequisite notes:** [[04 - Joins]], [[06 - GROUP BY and Aggregation]], [[07 - Subqueries]]
 **Next:** [[09 - Window Functions]], [[10 - Common Table Expressions]]
 
 ---

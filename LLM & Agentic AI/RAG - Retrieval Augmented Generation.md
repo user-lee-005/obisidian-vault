@@ -195,7 +195,7 @@ Source: customs_guide.pdf, page 45
 Question: {user_question}
 ```
 
-Key principles from [[Prompt Engineering Techniques]]:
+Key principles from [[Prompt Engineering]]:
 - Explicitly constrain to the provided context
 - Give the model permission to say "I don't know"
 - Request citations for traceability

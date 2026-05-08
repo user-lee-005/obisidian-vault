@@ -796,7 +796,7 @@ Now that you understand Angular's fundamentals, architecture, and how it maps to
 - **[[Components and Templates]]** — Deep dive into component anatomy, data binding, template syntax, and component communication
 - **[[Directives and Pipes]]** — DOM manipulation with directives and data transformation with pipes
 - **[[Angular Lifecycle Hooks]]** — Component lifecycle methods (like `@PostConstruct` in Spring)
-- **[[Angular Services and DI]]** — Dependency injection deep dive (very similar to Spring DI)
+- **[[Services and Dependency Injection]]** — Dependency injection deep dive (very similar to Spring DI)
 - **[[Angular Routing]]** — Client-side routing (like `@RequestMapping` for the frontend)
 - **[[Angular Forms]]** — Template-driven and reactive forms
 - **[[Angular HTTP Client]]** — Making API calls (like `RestTemplate` / `WebClient`)

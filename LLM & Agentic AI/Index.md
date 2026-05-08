@@ -129,4 +129,4 @@ Putting it all together — building real autonomous agents.
 
 > 💡 **Tip:** Don't skip Phase 1-2 even if you're eager to get to agents. The intuition you build here makes everything else 10x easier to understand.
 
-> 🔗 **Cross-references:** Check [[System Design]] for how agents fit into larger systems, and [[Cloud]] for deploying AI workloads.
+> 🔗 **Cross-references:** Check [[Foundations of System Design|System Design]] for how agents fit into larger systems, and [[Cloud Fundamentals|Cloud]] for deploying AI workloads.

@@ -46,7 +46,7 @@ Agents managing your digital life:
 - Task management: break down goals, track progress
 - Shopping: find deals, compare options, place orders
 
-The key blocker isn't capability — it's **trust**. Would you let an agent send emails on your behalf? The [[Guardrails and Safety Layers|safety infrastructure]] needs to match the capability.
+The key blocker isn't capability — it's **trust**. Would you let an agent send emails on your behalf? The [[Guardrails and Safety|safety infrastructure]] needs to match the capability.
 
 ### Enterprise Workflow Automation
 
@@ -63,7 +63,7 @@ End-to-end business processes handled by agent networks:
 ### Longer Context Windows
 
 - GPT-4 started at 8K tokens. We're now at 128K-1M+.
-- **Impact**: less need for explicit [[Memory in Agent Systems|memory systems]] — just put everything in context
+- **Impact**: less need for explicit [[Memory Systems for Agents|memory systems]] — just put everything in context
 - Eventually: agents that can "read" an entire codebase in one prompt
 
 ### Faster Inference
@@ -114,7 +114,7 @@ A complex agent run can cost $1-10. That's fine for high-value tasks but prohibi
 - Smarter routing: use expensive models only when needed
 
 ### Safety
-As agents get more capable, the [[Guardrails and Safety Layers|safety]] stakes rise:
+As agents get more capable, the [[Guardrails and Safety|safety]] stakes rise:
 - An agent that can write code can write malicious code
 - An agent that can send emails can send phishing emails
 - An agent that can trade stocks can crash markets
@@ -226,4 +226,4 @@ These questions will become practical as agents become more persistent and perso
 4. **MCP** is likely to become standard infrastructure — invest in understanding it now ([[MCP - Model Context Protocol|see our MCP note]])
 5. The developer role shifts from **implementer to architect/evaluator** — describing intent precisely and verifying outcomes becomes the core skill
 6. **Start building agents now** — the tools and patterns in this series give you the foundation to participate in this shift
-7. The agents we build today are primitive compared to what's coming — but the fundamentals ([[Building a Simple Agent in Python|loops]], [[Function Calling and Tool Use|tools]], [[Memory in Agent Systems|memory]], [[Guardrails and Safety Layers|safety]]) will remain the building blocks
+7. The agents we build today are primitive compared to what's coming — but the fundamentals ([[Building a Simple Agent in Python|loops]], [[Function Calling in LLMs|tools]], [[Memory Systems for Agents|memory]], [[Guardrails and Safety|safety]]) will remain the building blocks

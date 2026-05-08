@@ -163,7 +163,7 @@ vector-db:
 
 ### Horizontal scaling
 
-Query servers are **stateless** — scale horizontally behind a load balancer. No sticky sessions needed. See [[System Design]] concepts: load balancing, horizontal scaling.
+Query servers are **stateless** — scale horizontally behind a load balancer. No sticky sessions needed. See [[Foundations of System Design|System Design]] concepts: load balancing, horizontal scaling.
 
 ### Rate limiting
 

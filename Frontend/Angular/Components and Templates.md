@@ -1156,7 +1156,7 @@ export class TabGroupComponent implements AfterContentInit {
 
 - **[[Directives and Pipes]]** — Custom directives for DOM behavior + pipes for data transformation
 - **[[Angular Lifecycle Hooks]]** — `ngOnInit`, `ngOnDestroy`, etc. (like `@PostConstruct` / `@PreDestroy`)
-- **[[Angular Services and DI]]** — Dependency injection (feels exactly like Spring DI)
+- **[[Services and Dependency Injection]]** — Dependency injection (feels exactly like Spring DI)
 - **[[Angular Routing]]** — Client-side navigation (like `@RequestMapping`)
 - **[[Angular Forms]]** — Template-driven and reactive forms
 

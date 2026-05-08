@@ -64,7 +64,7 @@ MCP defines three types of capabilities a server can expose:
 
 ### 1. Tools — Functions the Model Can Call
 
-Like [[Function Calling and Tool Use|function calling]], but standardized:
+Like [[Function Calling in LLMs|function calling]], but standardized:
 
 ```json
 {
@@ -263,7 +263,7 @@ The MCP ecosystem is growing fast. Pre-built servers already exist for:
 | **Ecosystem** | Build everything yourself | Growing library of servers |
 | **Complexity** | Lower for simple cases | Higher initial setup, lower at scale |
 
-For simple agents with a few tools, direct [[Function Calling and Tool Use|function calling]] is fine. MCP shines when you need **many tools**, **cross-application reuse**, or when you want to leverage the **ecosystem** of pre-built servers.
+For simple agents with a few tools, direct [[Function Calling in LLMs|function calling]] is fine. MCP shines when you need **many tools**, **cross-application reuse**, or when you want to leverage the **ecosystem** of pre-built servers.
 
 ---
 

@@ -166,7 +166,7 @@ result = app.invoke({"messages": [HumanMessage("Delete all records")]}, config)
 result = app.invoke(None, config)  # continues from checkpoint
 ```
 
-This is essential for [[Guardrails and Safety Layers|safety]] — you want a human to approve destructive actions.
+This is essential for [[Guardrails and Safety|safety]] — you want a human to approve destructive actions.
 
 ### Persistence (Checkpointing)
 
@@ -313,7 +313,7 @@ The decision comes down to: **is the framework saving me time, or is it adding c
 
 1. **LangGraph** models agents as state machines — nodes are steps, edges are transitions, state flows through the graph
 2. Conditional edges enable **branching logic** — route to different nodes based on agent decisions or state
-3. **Human-in-the-loop** is built into LangGraph via `interrupt_before` — critical for [[Guardrails and Safety Layers|safety-sensitive]] actions
+3. **Human-in-the-loop** is built into LangGraph via `interrupt_before` — critical for [[Guardrails and Safety|safety-sensitive]] actions
 4. **Checkpointing** enables persistence — save and resume long-running agent conversations across restarts
 5. **CrewAI** is the simplest path to multi-agent systems — define roles, give tasks, let agents collaborate
 6. Choose frameworks based on your ecosystem: **Spring AI/LangChain4j** for Java, **LangGraph** for complex Python flows, **Semantic Kernel** for Microsoft

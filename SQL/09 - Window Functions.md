@@ -16,7 +16,7 @@ Window functions are the single most powerful analytical tool in SQL. They let y
 > [!tip] Why this matters
 > Before window functions, calculating a running total, a rank, or a percentage-of-total required ugly self-joins or correlated subqueries. Window functions do all of this in a **single pass** over the data, cleanly and efficiently.
 
-**Prerequisites:** [[05 - Aggregations and GROUP BY]], [[02 - SQL Execution Model]]
+**Prerequisites:** [[06 - GROUP BY and Aggregation]], [[02 - SQL Execution Model]]
 **Used heavily in:** [[08 - Common Query Patterns]], [[10 - Common Table Expressions]]
 
 ---

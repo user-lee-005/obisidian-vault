@@ -8,6 +8,7 @@ There are 2 main options:
 
 - These DB use SQL for finding and manipulating data
 - The data here is structured in the form of tables, consists Rows and Columns
+- [[00 - SQL Roadmap]]
 - **Advantages**
 	- Support Complex [[Join operations]] across multiple tables 
 	- Provide robust data consistency and integrity especially for [[Transactions]]
