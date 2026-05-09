@@ -60,16 +60,16 @@ flowchart TD
 
 ### 1.2 Comparison Table
 
-| Step | Written Position | Execution Position | What It Does |
-|------|-----------------|-------------------|-------------|
-| `SELECT` | 1st | **5th** | Evaluates expressions, creates output columns |
-| `FROM` | 2nd | **1st** | Identifies source tables |
-| `JOIN` | 3rd | **1st** (with FROM) | Combines tables using join conditions |
-| `WHERE` | 4th | **2nd** | Filters individual rows |
-| `GROUP BY` | 5th | **3rd** | Groups rows by specified columns |
-| `HAVING` | 6th | **4th** | Filters groups |
-| `ORDER BY` | 7th | **7th** | Sorts the result |
-| `LIMIT` | 8th | **8th** | Restricts the number of rows returned |
+| Step       | Written Position | Execution Position  | What It Does                                  |
+| ---------- | ---------------- | ------------------- | --------------------------------------------- |
+| `SELECT`   | 1st              | **5th**             | Evaluates expressions, creates output columns |
+| `FROM`     | 2nd              | **1st**             | Identifies source tables                      |
+| `JOIN`     | 3rd              | **1st** (with FROM) | Combines tables using join conditions         |
+| `WHERE`    | 4th              | **2nd**             | Filters individual rows                       |
+| `GROUP BY` | 5th              | **3rd**             | Groups rows by specified columns              |
+| `HAVING`   | 6th              | **4th**             | Filters groups                                |
+| `ORDER BY` | 7th              | **7th**             | Sorts the result                              |
+| `LIMIT`    | 8th              | **8th**             | Restricts the number of rows returned         |
 
 > [!tip] Memory Aid
 > **F**rom → **W**here → **G**roup → **H**aving → **S**elect → **D**istinct → **O**rder → **L**imit
@@ -113,24 +113,23 @@ flowchart LR
 
 **After this step** — every employee is matched with their department:
 
-| employee_id | first_name | salary | hire_date | department_id | department_name |
-|------------|-----------|--------|-----------|--------------|----------------|
-| 1 | Arjun | 95000 | 2019-03-15 | 1 | Logistics |
-| 2 | Priya | 88000 | 2020-07-01 | 2 | Sales |
-| 3 | Ravi | 72000 | 2018-11-20 | 1 | Logistics |
-| 4 | Sneha | 67000 | 2021-01-10 | 3 | Engineering |
-| 5 | Vikram | 55000 | 2022-06-05 | 2 | Sales |
-| 6 | Ananya | 60000 | 2023-02-14 | 4 | Customer Support |
-| 7 | Karthik | 78000 | 2020-09-30 | 3 | Engineering |
-| 8 | Deepa | 92000 | 2017-05-22 | 5 | Finance |
-| 9 | Suresh | 63000 | 2021-08-15 | 1 | Logistics |
-| 10 | Fatima | 52000 | 2024-01-08 | 4 | Customer Support |
+| employee_id | first_name | salary | hire_date  | department_id | department_name  |
+| ----------- | ---------- | ------ | ---------- | ------------- | ---------------- |
+| 1           | Arjun      | 95000  | 2019-03-15 | 1             | Logistics        |
+| 2           | Priya      | 88000  | 2020-07-01 | 2             | Sales            |
+| 3           | Ravi       | 72000  | 2018-11-20 | 1             | Logistics        |
+| 4           | Sneha      | 67000  | 2021-01-10 | 3             | Engineering      |
+| 5           | Vikram     | 55000  | 2022-06-05 | 2             | Sales            |
+| 6           | Ananya     | 60000  | 2023-02-14 | 4             | Customer Support |
+| 7           | Karthik    | 78000  | 2020-09-30 | 3             | Engineering      |
+| 8           | Deepa      | 92000  | 2017-05-22 | 5             | Finance          |
+| 9           | Suresh     | 63000  | 2021-08-15 | 1             | Logistics        |
+| 10          | Fatima     | 52000  | 2024-01-08 | 4             | Customer Support |
 
 **What you CAN reference:** Any column from any table in the FROM/JOIN clause.
 **What you CANNOT reference:** Column aliases defined in SELECT (SELECT hasn't run yet).
 
 ---
-
 ### Step 2: WHERE
 
 **What happens:** The database filters individual rows that don't satisfy the condition. This is a **row-level** operation — it examines each row independently.
