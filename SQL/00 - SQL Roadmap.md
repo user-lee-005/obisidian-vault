@@ -75,12 +75,12 @@ graph TD
 
 Build the mental model. Understand what SQL *is*, how queries execute, and how tables relate.
 
-| Note | Focus | Key Outcome |
-|------|-------|-------------|
-| [[01 - SQL Foundations]] | Relational model, tables, keys, normalization | Think in relations, not spreadsheets |
-| [[02 - SQL Execution Model]] | Logical execution order of a query | Understand WHY queries behave the way they do |
-| [[03 - Core Querying]] | SELECT, WHERE, ORDER BY, LIMIT, operators | Write correct filtered queries confidently |
-| [[04 - Joins]] | INNER, LEFT, RIGHT, FULL, CROSS, self-joins | Combine data from multiple tables fluently |
+| Note                         | Focus                                         | Key Outcome                                   |
+| ---------------------------- | --------------------------------------------- | --------------------------------------------- |
+| [[01 - SQL Foundations]]     | Relational model, tables, keys, normalization | Think in relations, not spreadsheets          |
+| [[02 - SQL Execution Model]] | Logical execution order of a query            | Understand WHY queries behave the way they do |
+| [[03 - Core Querying]]       | SELECT, WHERE, ORDER BY, LIMIT, operators     | Write correct filtered queries confidently    |
+| [[04 - Joins]]               | INNER, LEFT, RIGHT, FULL, CROSS, self-joins   | Combine data from multiple tables fluently    |
 
 ### ⚙️ Tier 2 — Intermediate
 
