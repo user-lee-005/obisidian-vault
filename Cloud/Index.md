@@ -9,15 +9,15 @@
 
 These notes are provider-agnostic — they apply to any cloud platform.
 
-| Topic | Description |
-|-------|-------------|
-| [[Cloud Fundamentals]] | What is cloud, service models (IaaS/PaaS/SaaS), deployment models, regions & AZs |
-| [[Cloud Networking Basics]] | VPCs, subnets, firewalls, DNS, load balancers, CDNs |
-| [[Cloud Security Fundamentals]] | IAM, encryption, compliance, security best practices |
-| [[Cloud Deployment Strategies]] | Blue-green, canary, IaC, containers, CI/CD pipelines |
-| [[Monitoring and Observability]] | Logs, metrics, traces, alerting, incident response |
-| [[Cost Management]] | Billing models, optimization, budgets, tagging |
-| [[AWS vs Azure Comparison]] | Side-by-side service mapping cheat sheet |
+| Topic                            | Description                                                                      |
+| -------------------------------- | -------------------------------------------------------------------------------- |
+| [[Cloud Fundamentals]]           | What is cloud, service models (IaaS/PaaS/SaaS), deployment models, regions & AZs |
+| [[Cloud Networking Basics]]      | VPCs, subnets, firewalls, DNS, load balancers, CDNs                              |
+| [[Cloud Security Fundamentals]]  | IAM, encryption, compliance, security best practices                             |
+| [[Cloud Deployment Strategies]]  | Blue-green, canary, IaC, containers, CI/CD pipelines                             |
+| [[Monitoring and Observability]] | Logs, metrics, traces, alerting, incident response                               |
+| [[Cost Management]]              | Billing models, optimization, budgets, tagging                                   |
+| [[AWS vs Azure Comparison]]      | Side-by-side service mapping cheat sheet                                         |
 
 ---
 

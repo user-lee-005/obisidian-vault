@@ -1,5 +1,3 @@
 1. [[DSA Patterns]]
 2. [[Pattern Identification Framework]]
 3. [[DSA Interview Prep Plan]]
-4. [[Interview Prep/Java/OOPS/Index|Core Java]]
-5. [[Interview Questions asked till now]]
