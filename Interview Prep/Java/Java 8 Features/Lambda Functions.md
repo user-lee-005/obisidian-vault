@@ -10,7 +10,7 @@ created: 2026-06-08
 stack: java
 prerequisites:
   - "[[Functional Interfaces]]"
-status: in-progress
+status: complete
 ---
 ## What is Lambda Functions
 - A lambda is simply a shorter way of implementing a Functional Interface.
