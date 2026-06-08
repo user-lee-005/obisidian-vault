@@ -254,4 +254,4 @@ For a deeper understanding of the concepts that apply to **both** platforms, sta
 
 ---
 
-> 🗺️ Go back to the [[Cloud/Index]] to see all available cloud notes.
+> 🗺️ Go back to the [[Index]] to see all available cloud notes.
