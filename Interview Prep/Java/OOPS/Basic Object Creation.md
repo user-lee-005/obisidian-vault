@@ -1,3 +1,15 @@
+---
+title: Basic Object Creation
+tags:
+  - java
+  - backend
+  - beginner
+  - foundations
+created: 2026-06-06
+aliases:
+  - Object Lifecycle
+status: complete
+---
 # Phase 1: Before OOP
 
 - If we need to create multiple employees, we would require to create

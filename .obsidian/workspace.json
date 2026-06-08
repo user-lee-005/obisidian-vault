@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5e197b34110879",
+        "id": "75808ffe733bb399",
         "type": "tabs",
         "children": [
           {
-            "id": "184c98f977ee5612",
+            "id": "e16779b2705994e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM & Agentic AI/Prompt Caching Techniques.md",
+                "file": "Interview Prep/Java/OOPS/Basic Object Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Caching Techniques"
+              "title": "Basic Object Creation"
             }
           }
         ]
@@ -179,8 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "815d8720ede44777",
+  "active": "e16779b2705994e0",
   "lastOpenFiles": [
+    "SQL/15 - SQL for Backend Engineers.md",
+    "LLM & Agentic AI/Advanced RAG Patterns.md",
+    "Interview Prep/Java/OOPS/Basic Object Creation.md",
+    "SQL/07 - Subqueries.md",
+    "Untitled.base",
+    "LLM & Agentic AI/Prompt Caching Techniques.md",
     "Interview Prep/Java/OOPS/Constructor Chaining.md",
     "Cloud/AWS vs Azure Comparison.md",
     "Interview Prep/Java/OOPS/Index.md",
@@ -192,7 +198,6 @@
     "Cloud/AWS/AWS Getting Started.md",
     "Interview Prep/Java/OOPS/Class Loading and Unloading.md",
     "Interview Prep/Java/OOPS/Loading Class into memory.md",
-    "Interview Prep/Java/OOPS/Basic Object Creation.md",
     "Interview Prep/Java/Multithreading/Index.md",
     "Interview Prep/Interview Preparation.md",
     "Interview Prep/DSA/Patterns/DSA Patterns.md",
@@ -207,15 +212,10 @@
     "Interview Prep/Java/Multithreading/What is multithreading.md",
     "Spring WebFlux/Interview Questions/Core Concepts.md",
     "Spring WebFlux/Interview Questions/Interview Questions.md",
-    "Connect Redis using WSL Ubuntu.md",
-    "Confidiential Health Sheet.md",
-    "Interview Prep/Java/Multithreading/Why multithreading.md",
-    "Interview Prep/DSA/Patterns/Sliding Window.md",
     "Interview Prep/Java/Multithreading",
     "Interview Prep/Java",
     "SQL",
     "Interview Prep/DSA/Patterns",
-    "Interview Prep/DSA",
-    "Interview Prep"
+    "Interview Prep/DSA"
   ]
 }
