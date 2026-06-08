@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Java/OOPS/Basic Object Creation.md",
+                "file": "Interview Prep/Interview Preparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Object Creation"
+              "title": "Interview Preparation"
             }
           }
         ]
@@ -181,15 +181,17 @@
   },
   "active": "e16779b2705994e0",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Interview Prep/DSA/Patterns/DSA Interview Prep Plan.md",
+    "Interview Prep/Interview Preparation.md",
+    "Interview Prep/Java/OOPS/Index.md",
     "Interview Prep/Java/OOPS/Basic Object Creation.md",
+    "Untitled.base",
     "SQL/15 - SQL for Backend Engineers.md",
     "LLM & Agentic AI/Advanced RAG Patterns.md",
     "SQL/07 - Subqueries.md",
     "LLM & Agentic AI/Prompt Caching Techniques.md",
     "Interview Prep/Java/OOPS/Constructor Chaining.md",
     "Cloud/AWS vs Azure Comparison.md",
-    "Interview Prep/Java/OOPS/Index.md",
     "Interview Prep/Java/OOPS/Polymorphism.md",
     "SQL/06 - GROUP BY and Aggregation.md",
     "SQL/00 - SQL Roadmap.md",
@@ -199,7 +201,6 @@
     "Interview Prep/Java/OOPS/Class Loading and Unloading.md",
     "Interview Prep/Java/OOPS/Loading Class into memory.md",
     "Interview Prep/Java/Multithreading/Index.md",
-    "Interview Prep/Interview Preparation.md",
     "Interview Prep/DSA/Patterns/DSA Patterns.md",
     "Interview Prep/Java/Interview Questions/IBM.md",
     "Interview Prep/Java/OOPS/Basic Object Creation.md.tmp.14476.449edc0a7f86",
