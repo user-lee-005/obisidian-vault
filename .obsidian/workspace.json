@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b6c8101093e48f1",
+        "id": "1b5e197b34110879",
         "type": "tabs",
         "children": [
           {
-            "id": "ce437da43c0e6e00",
+            "id": "184c98f977ee5612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Java/OOPS/Index.md",
+                "file": "LLM & Agentic AI/Prompt Caching Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Prompt Caching Techniques"
             }
           }
         ]
@@ -179,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce437da43c0e6e00",
+  "active": "815d8720ede44777",
   "lastOpenFiles": [
-    "Polymorphism.md",
-    "SQL/06 - GROUP BY and Aggregation.md",
+    "Interview Prep/Java/OOPS/Constructor Chaining.md",
+    "Cloud/AWS vs Azure Comparison.md",
     "Interview Prep/Java/OOPS/Index.md",
-    "Constructor Chaining.md",
+    "Interview Prep/Java/OOPS/Polymorphism.md",
+    "SQL/06 - GROUP BY and Aggregation.md",
     "SQL/00 - SQL Roadmap.md",
     "SQL/01 - SQL Foundations.md",
     "System Design/API Design.md",
@@ -212,7 +213,6 @@
     "Interview Prep/DSA/Patterns/Sliding Window.md",
     "Interview Prep/Java/Multithreading",
     "Interview Prep/Java",
-    "Interview Prep/DSA/Patterns/HashMap & Frequency Counting.md",
     "SQL",
     "Interview Prep/DSA/Patterns",
     "Interview Prep/DSA",
