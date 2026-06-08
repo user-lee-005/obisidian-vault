@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Interview Preparation.md",
+                "file": "Interview Prep/Java/Java 8 Features/Method References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview Preparation"
+              "title": "Method References"
             }
           }
         ]
@@ -181,9 +181,19 @@
   },
   "active": "e16779b2705994e0",
   "lastOpenFiles": [
-    "Interview Prep/DSA/Patterns/DSA Interview Prep Plan.md",
-    "Interview Prep/Interview Preparation.md",
+    "Interview Prep/Java/Java 8 Features/Index.md",
+    "Interview Prep/Java/Java 8 Features/Method References.md",
+    "Interview Prep/Java/Java 8 Features/Lambda Functions.md",
+    "Interview Prep/Java/Java 8 Features/Functional Interfaces.md",
+    "2026-06-08.md",
+    "Interview Prep/Java/Java 8 Features/Anonymous class.md",
     "Interview Prep/Java/OOPS/Index.md",
+    "Frontend/Angular/Services and Dependency Injection.md",
+    "Frontend/Angular/Components and Templates.md",
+    "Frontend/Angular/Angular Fundamentals.md",
+    "Interview Prep/Interview Preparation.md",
+    "Interview Prep/Java/Java 8 Features",
+    "Interview Prep/DSA/Patterns/DSA Interview Prep Plan.md",
     "Interview Prep/Java/OOPS/Basic Object Creation.md",
     "Untitled.base",
     "SQL/15 - SQL for Backend Engineers.md",
@@ -199,23 +209,13 @@
     "System Design/API Design.md",
     "Cloud/AWS/AWS Getting Started.md",
     "Interview Prep/Java/OOPS/Class Loading and Unloading.md",
-    "Interview Prep/Java/OOPS/Loading Class into memory.md",
-    "Interview Prep/Java/Multithreading/Index.md",
-    "Interview Prep/DSA/Patterns/DSA Patterns.md",
-    "Interview Prep/Java/Interview Questions/IBM.md",
     "Interview Prep/Java/OOPS/Basic Object Creation.md.tmp.14476.449edc0a7f86",
     "Interview Prep/Java/OOPS/Index.md.tmp.14476.73e3e3e6a5f4",
-    "Interview Prep/Java/Interview Questions",
-    "Interview Prep/Java/Interview Questions/Interview Questions asked till now.md",
-    "Interview Prep/Java/Multithreading/Creating threads.md",
+    "Interview Prep/Interview Questions",
     "Interview Prep/Java/OOPS",
-    "Interview Prep/Java/Multithreading/Threads.md",
-    "Interview Prep/Java/Multithreading/What is multithreading.md",
-    "Spring WebFlux/Interview Questions/Core Concepts.md",
     "Interview Prep/Java/Multithreading",
     "Interview Prep/Java",
     "SQL",
-    "Interview Prep/DSA/Patterns",
-    "Interview Prep/DSA"
+    "Interview Prep/DSA/Patterns"
   ]
 }

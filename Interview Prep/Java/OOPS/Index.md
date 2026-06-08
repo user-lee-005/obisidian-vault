@@ -27,3 +27,7 @@
 
 ## Object Class
 - [[Object class methods]]
+
+### Java 8 features
+- [[Interview Prep/Java/Java 8 Features/Index|Java 8 Features]]
+
