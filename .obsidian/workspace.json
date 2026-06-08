@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e894a0c06cab7aac",
+    "id": "6d1b8819c72195c1",
     "type": "split",
     "children": [
       {
-        "id": "7316cd99fabc8ec4",
+        "id": "2b6c8101093e48f1",
         "type": "tabs",
         "children": [
           {
-            "id": "66373691b1b65acb",
+            "id": "ce437da43c0e6e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/07 - Subqueries.md",
+                "file": "Interview Prep/Java/OOPS/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Subqueries"
+              "title": "Index"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e52e557fc29850c9",
+    "id": "3f4da30f07ad8dca",
     "type": "split",
     "children": [
       {
-        "id": "3f01f80aa77d1f55",
+        "id": "691b1b183feb0fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc8b784562985f2",
+            "id": "815d8720ede44777",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c368e5e0bfbe243f",
+            "id": "18227733293c1d02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3af83d74df8fe550",
+            "id": "68c79242958bebac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "360ab50b4c0e1c50",
+    "id": "7ecaf3b29e54d3e7",
     "type": "split",
     "children": [
       {
-        "id": "4eb0ffdcb08b5c43",
+        "id": "fe6a1fa2ac845107",
         "type": "tabs",
         "children": [
           {
-            "id": "58d77513500697b6",
+            "id": "9b012fbae624a472",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,20 +107,21 @@
             }
           },
           {
-            "id": "3c278507fce1595d",
+            "id": "302e6d8fbd445e48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Index"
             }
           },
           {
-            "id": "3208b51d38a71504",
+            "id": "cef5e0447c4371d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,21 +136,22 @@
             }
           },
           {
-            "id": "2f50013801f97299",
+            "id": "97686ac2f4f8e0c5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cloud/Index.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Index"
             }
           },
           {
-            "id": "4b2d919bd921872b",
+            "id": "d8409823ed029f12",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,57 +165,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66373691b1b65acb",
+  "active": "ce437da43c0e6e00",
   "lastOpenFiles": [
+    "Polymorphism.md",
     "SQL/06 - GROUP BY and Aggregation.md",
-    "SQL/03 - Core Querying.md",
-    "SQL/02 - SQL Execution Model.md",
-    "SQL/01 - SQL Foundations.md",
-    "SQL/09 - Window Functions.md",
-    "System Design/Production Infra.md",
-    "System Design/The API design process.md",
-    "Frontend/TypeScript Fundamentals.md",
-    "System Design/Big Data Processing.md",
-    "LLM & Agentic AI/Prompt Injection and Security.md",
-    "LLM & Agentic AI/Chain of Thought Prompting.md",
-    "LLM & Agentic AI/ReAct Pattern.md",
-    "Frontend/Angular/Angular HTTP Client.md",
-    "SQL/10 - Common Table Expressions.md",
-    "SQL/08 - Common Query Patterns.md",
-    "System Design/Databases.md",
+    "Interview Prep/Java/OOPS/Index.md",
+    "Constructor Chaining.md",
     "SQL/00 - SQL Roadmap.md",
-    "SQL/05 - EXISTS and NOT EXISTS.md",
-    "SQL/16 - SQL for Cybersecurity and Analytics.md",
-    "SQL/15 - SQL for Backend Engineers.md",
-    "SQL/14 - Advanced SQL.md",
-    "SQL/13 - Transactions and Concurrency.md",
-    "SQL/12 - Query Optimization.md",
-    "SQL/11 - Indexing.md",
-    "SQL/07 - Subqueries.md",
-    "SQL/04 - Joins.md",
-    "System Design",
-    "Spring boot",
-    "New Text Document.txt",
-    "Spring WebFlux/Interview Questions/desktop.ini",
-    "Spring WebFlux/Netty",
-    "Spring WebFlux/Reactive Stream Specifications",
-    "Spring WebFlux/Interview Questions",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Spring WebFlux"
+    "SQL/01 - SQL Foundations.md",
+    "System Design/API Design.md",
+    "Cloud/AWS/AWS Getting Started.md",
+    "Interview Prep/Java/OOPS/Class Loading and Unloading.md",
+    "Interview Prep/Java/OOPS/Loading Class into memory.md",
+    "Interview Prep/Java/OOPS/Basic Object Creation.md",
+    "Interview Prep/Java/Multithreading/Index.md",
+    "Interview Prep/Interview Preparation.md",
+    "Interview Prep/DSA/Patterns/DSA Patterns.md",
+    "Interview Prep/Java/Interview Questions/IBM.md",
+    "Interview Prep/Java/OOPS/Basic Object Creation.md.tmp.14476.449edc0a7f86",
+    "Interview Prep/Java/OOPS/Index.md.tmp.14476.73e3e3e6a5f4",
+    "Interview Prep/Java/Interview Questions",
+    "Interview Prep/Java/Interview Questions/Interview Questions asked till now.md",
+    "Interview Prep/Java/Multithreading/Creating threads.md",
+    "Interview Prep/Java/OOPS",
+    "Interview Prep/Java/Multithreading/Threads.md",
+    "Interview Prep/Java/Multithreading/What is multithreading.md",
+    "Spring WebFlux/Interview Questions/Core Concepts.md",
+    "Spring WebFlux/Interview Questions/Interview Questions.md",
+    "Connect Redis using WSL Ubuntu.md",
+    "Confidiential Health Sheet.md",
+    "Interview Prep/Java/Multithreading/Why multithreading.md",
+    "Interview Prep/DSA/Patterns/Sliding Window.md",
+    "Interview Prep/Java/Multithreading",
+    "Interview Prep/Java",
+    "Interview Prep/DSA/Patterns/HashMap & Frequency Counting.md",
+    "SQL",
+    "Interview Prep/DSA/Patterns",
+    "Interview Prep/DSA",
+    "Interview Prep"
   ]
 }
