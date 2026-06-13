@@ -19,7 +19,7 @@ There are 2 main options:
 - There are different forms of no sql databases:
 	- [[Document stores]] - Mongo DB
 	- [[Wide-column stores]] - Cassandra
-	- [[Key-Value stores]] - Redis
+	- [[Key-Value stores]] - [[Redis]]
 	- [[Graph stores]] - Neo4j
 
 ---
