@@ -63,13 +63,13 @@ In a synchronous system, if Service B is slow or down, Service A **also becomes 
 └──────────┘     └─────────────────┘     └──────────┘
 ```
 
-| Component | Role | Example |
-|---|---|---|
-| **Producer** | Creates and sends messages to the queue | Booking Service sends "new booking" event |
-| **Message** | The data payload being transferred | `{ "bookingId": "BK-001", "status": "CREATED" }` |
-| **Queue / Topic** | The buffer that holds messages until consumed | `booking-events` topic in Kafka |
-| **Broker** | The server that manages queues and routes messages | Kafka broker, RabbitMQ server |
-| **Consumer** | Reads and processes messages from the queue | Rate Calculation Service, Notification Service |
+| Component         | Role                                               | Example                                          |
+| ----------------- | -------------------------------------------------- | ------------------------------------------------ |
+| **Producer**      | Creates and sends messages to the queue            | Booking Service sends "new booking" event        |
+| **Message**       | The data payload being transferred                 | `{ "bookingId": "BK-001", "status": "CREATED" }` |
+| **Queue / Topic** | The buffer that holds messages until consumed      | `booking-events` topic in Kafka                  |
+| **Broker**        | The server that manages queues and routes messages | Kafka broker, RabbitMQ server                    |
+| **Consumer**      | Reads and processes messages from the queue        | Rate Calculation Service, Notification Service   |
 
 ### Message vs Event
 
