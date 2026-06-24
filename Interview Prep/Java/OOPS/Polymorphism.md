@@ -19,7 +19,6 @@ public static void main(String[] args) {
 ```
 
 The above is an example of polymorphism
-
 ### What happens
 
 1. Animal a = new Dog () --> This line creates a Dog object in the heap memory that also has animal parts

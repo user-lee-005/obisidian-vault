@@ -1,0 +1,1 @@
+Bundling data (attributes) and methods (functions) into a single unit. It restricts direct access to some of an object's components, ensuring better control, security, and data integrity.
