@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf50e80c0624816",
+        "id": "6c8b5ab2fc1dc162",
         "type": "tabs",
         "children": [
           {
-            "id": "e39ab88755f825fd",
+            "id": "6cde7798fbc67206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Interview Questions/Blue Yonder.md",
+                "file": "Interview Prep/Interview Questions/eBay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Yonder"
+              "title": "eBay"
             }
           }
         ]
@@ -180,15 +180,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e39ab88755f825fd",
+  "active": "815d8720ede44777",
   "lastOpenFiles": [
-    "Interview Prep/Interview Questions/IBM.md",
-    "Interview Prep/Interview Questions/Blue Yonder.md",
+    "Interview Prep/Java/OOPS/Constructor Chaining.md",
+    "Interview Prep/Interview Questions/eBay.md",
     "Interview Prep/Interview Questions/Interview Questions asked till now.md",
+    "Interview Prep/Interview Questions/Blue Yonder.md",
+    "Cloud/Docker/Docker Networking.md",
+    "Cloud/Docker/Docker Compose.md",
+    "Cloud/Docker/Docker Volumes.md",
+    "Cloud/Docker/Index.md",
+    "Cloud/Docker/Docker Basics.md",
+    "Cloud/Docker/Docker file.md",
+    "Cloud/Docker",
+    "Interview Prep/Interview Questions/IBM.md",
     "Interview Prep/Java/OOPS/Polymorphism.md",
     "Interview Prep/Java/OOPS/Index.md",
     "Interview Prep/Java/OOPS/Encapsulation.md",
-    "Interview Prep/Java/OOPS/Constructor Chaining.md",
     "Interview Prep/Java/OOPS/Class Loading and Unloading.md",
     "Interview Prep/Java/OOPS/Basic Object Creation.md",
     "Interview Prep/Java/Java 8 Features/Streams.md",
@@ -204,20 +212,12 @@
     "Interview Prep/Java/Interview Questions",
     "System Design/Redis.md",
     "System Design/Databases.md",
-    "System Design/Relational vs Non-Relational Databases.md",
-    "System Design/Caching.md",
-    "System Design/Index.md",
-    "LLM & Agentic AI/Index.md",
-    "System Design/redis_append_1.md",
     "System Design/redis_append_1.md.tmp.19036.e25889c76df9",
     "System Design/Redis.md.tmp.19036.227d60789cc5",
-    "System Design/Microservices Patterns.md",
     "Untitled.base",
-    "Interview Prep/Java/Java 8 Features/Method References.md",
     "Interview Prep/Java/Java 8 Features",
     "Interview Prep/Java/OOPS/Basic Object Creation.md.tmp.14476.449edc0a7f86",
     "Interview Prep/Java/OOPS/Index.md.tmp.14476.73e3e3e6a5f4",
-    "Interview Prep/Interview Questions",
-    "Interview Prep/Java/OOPS"
+    "Interview Prep/Interview Questions"
   ]
 }
